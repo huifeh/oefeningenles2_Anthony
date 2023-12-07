@@ -4,7 +4,7 @@
 getal1 = int(input("Geef een getal in: "))
 getal2 = int(input("Geef nog een getal in: "))
 
-som = getal1 + getal2
+som = getal1 + getal2 + 4
 product = getal1 * getal2
 
 print(f"De som van", getal1, "&", getal2 ,"is", som, "!")
